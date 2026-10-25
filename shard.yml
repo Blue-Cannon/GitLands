@@ -9,14 +9,13 @@ targets:
     main: src/gitblue.cr
 
 dependencies:
-  # The web framework to handle HTTP requests and Git Smart Protocol streams
   kemal:
     github: kemalcr/kemal
-
-  # The ORM to connect GitLands to your database (PostgreSQL/SQLite/MySQL)
+  kemal-session:
+    github: kemalcr/kemal-session
+  db:
+    github: crystal-lang/crystal-db
   granite:
     github: granite-orm/granite
-
-  # Database driver (using SQLite here for rapid, zero-config local prototyping)
   sqlite3:
     github: crystal-lang/crystal-sqlite3
