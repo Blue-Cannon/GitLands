@@ -1,4 +1,4 @@
-name: gitlands
+name: gitblue
 version: 0.1.0
 
 authors:
@@ -6,7 +6,7 @@ authors:
 
 targets:
   gitlands:
-    main: src/gitlands.cr
+    main: src/gitblue.cr
 
 dependencies:
   # The web framework to handle HTTP requests and Git Smart Protocol streams
