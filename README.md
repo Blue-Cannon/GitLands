@@ -2,9 +2,6 @@
 
 ![picture](https://raw.githubusercontent.com/Blue-Cannon/gitblue/refs/heads/blue/photos/Blue%20and%20White%20Simple%20Modern%20Banner%20Landscape_20261025_155516_0000.png)
 
-## Table Of Contents
-- [What is GitBlue?](#what-is-gitblue?)
-
 ## What is GitBlue?
 
 | **GitBlue** | |
@@ -56,5 +53,25 @@ According to the official repository tracking [1, 2]:
 
 ### 5. Licensing
 GitBlue is distributed as free and open-source software under the terms of the **MIT License** [1, 2].
+
+## Why GitBlue?
+
+* **Commitment to "Free/Libre Forever!"**: GitBlue is built as a fully open-source Git hosting platform governed by the **MIT License**, guaranteeing that the platform remains free and libre permanently [1, 2].
+* **Powered 100% by Crystal**: Built entirely in the **Crystal Programming Language**, GitBlue leverages Crystal's type safety, elegant syntax, and compiled performance for software development repository management [2].
+* **Indie-Driven & Community-Focused**: Unlike large corporate hosting solutions, GitBlue is developed by **Blue-Cannon**, an indie developer organization led by **Rogge Ramos** [2].
+* **Dedicated Git Platform**: It provides a streamlined, open-source alternative specifically tailored for hosting Git repositories and supporting software development workflows [1, 2].
+
+## Why Written in Crystal
+
+### Implementation Details in GitBlue
+
+* **100% Language Adoption**: The repository's language analysis confirms that GitBlue is written **100% in the Crystal Programming Language** [1].
+* **Ecosystem Configuration**: Project specifications and dependencies are managed through `shard.yml`, the standard configuration format for the Crystal ecosystem [2].
+* **Codebase Structure**: Backend logic and controllers (such as `git_file_controller.cr` inside the `src/` directory) are authored as native Crystal (`.cr`) files [2].
+* **Topic Classification**: The project explicitly includes `crystal-lang` as a core repository topic tag alongside `git-platform` and `software-development` [1, 2].
+
+---
+
+> **Note on Source Coverage:** While the repository highlights that GitBlue is built entirely in Crystal [1], your sources do not include explicit developer commentary or a documented rationale explaining *why* Crystal was selected over other programming languages.
 
 ![camo](https://camo.githubusercontent.com/e399339d51e75457152a9f584cb0dd9c348be1a2b9df4ee1cfcf50e4640c83b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3066313732612c3130303a323536336562266865696768743d3130302673656374696f6e3d666f6f746572)
