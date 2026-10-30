@@ -16,6 +16,7 @@ dependencies:
   db:
     github: crystal-lang/crystal-db
   granite:
-    github: granite-orm/granite
+    github: amberframework/granite
+    version: ~> 0.24.0
   sqlite3:
     github: crystal-lang/crystal-sqlite3
