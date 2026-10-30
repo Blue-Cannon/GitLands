@@ -21,7 +21,6 @@ gitblue.dwarf
 *.backup
 *.bak
 *.bakup
-*~
 
 # GitBlue
 .gitblue/
