@@ -2,6 +2,9 @@
 
 ![picture](https://raw.githubusercontent.com/Blue-Cannon/gitblue/refs/heads/blue/photos/Blue%20and%20White%20Simple%20Modern%20Banner%20Landscape_20261025_155516_0000.png)
 
+> [!IMPORTANT]
+> GitBlue is in a early stage and is under construction.
+
 ## What is GitBlue?
 
 | **GitBlue** | |
