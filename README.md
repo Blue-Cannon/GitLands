@@ -74,4 +74,20 @@ GitBlue is distributed as free and open-source software under the terms of the *
 
 > **Note on Source Coverage:** While the repository highlights that GitBlue is built entirely in Crystal [1], your sources do not include explicit developer commentary or a documented rationale explaining *why* Crystal was selected over other programming languages.
 
+## Why Use GitBlue?
+
+* **Guaranteed "Free/Libre Forever!"**: GitBlue is built as a fully open-source, free/libre Git platform under the **MIT License**, committed to permanent software freedom [1, 2].
+* **Built 100% in Crystal**: It leverages the **Crystal Programming Language** for efficient, type-safe software development and repository hosting [2].
+* **Indie-Led & Community-Focused**: GitBlue is developed independently by **Blue-Cannon**, a GitHub organization led by **Rogge Ramos** [2].
+* **Dedicated Git Platform**: It offers a lightweight, open-source alternative for hosting Git repositories and supporting collaborative development [1, 2].
+
+## Compare
+
+| Feature / Trait | **GitBlue** | **Typical Git Platforms (GitHub, GitLab, Gitea)** |
+| :--- | :--- | :--- |
+| **Primary Language** | Written **100% in Crystal** [2] | Typically built in Ruby (GitHub/GitLab), Go (Gitea/Forgejo), or Python |
+| **Licensing Commitment** | **MIT License** with the promise *"Free/Libre Forever!"* [1, 2] | Varies (Proprietary/Freemium for GitHub; Open-core for GitLab; Community MIT/GPL for Gitea) |
+| **Development Model** | **Indie developer organization** (**Blue-Cannon** led by **Rogge Ramos**) [2] | Enterprise corporations (Microsoft, GitLab Inc.) or community steering committees |
+| **Maturity & Scale** | **Early stage** (32 commits, 1 branch, 1 tags/releases) [1, 2] | Mature, enterprise-ready platforms hosting millions of repositories |
+
 ![camo](https://camo.githubusercontent.com/e399339d51e75457152a9f584cb0dd9c348be1a2b9df4ee1cfcf50e4640c83b8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3066313732612c3130303a323536336562266865696768743d3130302673656374696f6e3d666f6f746572)
