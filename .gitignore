@@ -1,0 +1,26 @@
+# Crystal build
+.shards/
+lib/
+bin/
+*.dwarf
+
+# Compiled binary - replace my_app with your binary name
+gitblue
+gitblue.dwarf
+*.exe
+*.dll
+*.so
+
+# Dependency lock - don't ignore if you build an app, do ignore if you build a library
+shard.lock
+
+# Editor
+.idea/
+*.swp
+.DS_Store
+
+# Backups
+*.backup
+*.bak
+*.bakup
+*~
