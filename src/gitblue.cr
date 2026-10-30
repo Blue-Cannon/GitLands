@@ -9,5 +9,8 @@ require "./controllers/*"
 require "./middleware/*"
 require "./routes/*"
 
+# Dispatch a CLI Tool for Crystal Ruby-Like code.
+require "./cli/*"
+
 # Boot the engine
 Kemal.run
