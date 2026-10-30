@@ -11,12 +11,10 @@ gitblue.dwarf
 *.dll
 *.so
 
-# Dependency lock - don't ignore if you build an app, do ignore if you build a library
-shard.lock
-
 # Editor
 .idea/
 *.swp
+*.swo
 .DS_Store
 
 # Backups
@@ -24,3 +22,33 @@ shard.lock
 *.bak
 *.bakup
 *~
+
+# GitBlue
+.gitblue/
+.gitbluecache/
+
+# Thumbnail Database
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# --- Linux Trashes ---
+*~
+.Trash-*
+.directory
+.nfs*
