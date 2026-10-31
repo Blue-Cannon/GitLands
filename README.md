@@ -75,6 +75,7 @@ GitBlue is distributed as free and open-source software under the terms of the *
 
 ---
 
+> [!NOTE]
 > **Note on Source Coverage:** While the repository highlights that GitBlue is built entirely in Crystal [1], your sources do not include explicit developer commentary or a documented rationale explaining *why* Crystal was selected over other programming languages.
 
 ## Why Use GitBlue?
