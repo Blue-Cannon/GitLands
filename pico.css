@@ -1,0 +1,36 @@
+@import url("https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css");
+
+:root,
+:host,
+[data-theme="light"] {
+  --pico-primary: #3b82f6;
+  --pico-primary-background: #2563eb;
+  --pico-primary-border: #3b82f6;
+  --pico-primary-hover: #1d4ed8;
+  --pico-primary-hover-background: #1e40af;
+  --pico-primary-hover-border: #1e40af;
+  --pico-primary-focus: rgba(59, 130, 246, 0.25);
+  --pico-primary-inverse: #fff;
+  --pico-border-radius: 0.5rem;
+}
+
+[data-theme="dark"] {
+  --pico-primary: #60a5fa;
+  --pico-primary-background: #3b82f6;
+  --pico-primary-border: #3b82f6;
+  --pico-primary-hover: #93c5fd;
+  --pico-primary-hover-background: #2563eb;
+  --pico-primary-hover-border: #2563eb;
+  --pico-primary-focus: rgba(96, 165, 250, 0.25);
+  --pico-primary-inverse: #0a0e1a;
+  --pico-background-color: #0a0e1a;
+  --pico-card-background-color: #111827;
+  --pico-card-border-color: #1e293b;
+}
+
+mark {
+  background: var(--pico-primary);
+  color: var(--pico-primary-inverse);
+  padding: 0.1em 0.35em;
+  border-radius: 0.25rem;
+}
