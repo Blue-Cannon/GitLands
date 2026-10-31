@@ -1,0 +1,11 @@
+{
+  "label": "Label",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "GitBlue by Blue-Cannon",
+    "description": "Description for the category",
+    "slug": "/category/<slug>",
+    "keywords": ["keyword"]
+  }
+}
